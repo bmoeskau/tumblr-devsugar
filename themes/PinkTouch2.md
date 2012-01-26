@@ -32,4 +32,12 @@ From your theme's `Customize` view choose the `Theme` menu option and select "Us
 	.post .chat {
 	    list-style: none;
 	}
+	.text blockquote {
+	    background: #ddd;
+	    font-size: 1em;
+	    font-style: italic;
+	}
+	.text blockquote p {
+	    padding: 20px;
+	}
 	</style>
