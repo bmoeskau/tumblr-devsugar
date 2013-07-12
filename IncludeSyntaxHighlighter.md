@@ -4,7 +4,7 @@ If you are a developer with a Tumblog, you'll definitely want to post some code 
 
 ## Installation
 
-From your theme's `Customize` view choose the `Theme` menu option and select "Use custom HML". Every theme's source will look different, but in general you can place the following code anywhere in the document `<HEAD>`. For consistency I prefer to locate the end `</HEAD>` tag and insert the following just above that as the last block of code in the header.
+From your theme's `Customize` view choose the `Theme` menu option and select "Use custom HTML". Every theme's source will look different, but in general you can place the following code anywhere in the document `<HEAD>`. For consistency I prefer to locate the end `</HEAD>` tag and insert the following just above that as the last block of code in the header.
 
 	<!--
 		BEGIN SyntaxHighlighter support
